@@ -1,0 +1,46 @@
+.main-slider{
+    margin-bottom: 45px;
+}
+.bx-wrapper{
+    border: none;
+    margin-bottom: 0;
+}
+.bx-wrapper .bx-pager{
+    display: none;
+}
+.section .sec{
+    text-align: center;
+}
+.section .sec .sec-tit{
+    margin-bottom: 8px;
+}
+.section .sec h3,.section article .img-box{
+    margin-bottom: 40px;
+}
+.contact .sec-tit{
+    margin-bottom: 35px;
+}
+.contact .container{
+    text-align: center;
+}
+.contact .icon{
+    font-size: 50px;
+    margin-bottom: 7px;
+}
+.contact p{
+    margin-bottom: 48px;
+}
+.footer{
+    background-color: #384d53;
+}
+.footer .container{
+    color: #fff;
+    padding: 30px 0;
+}
+strong,address{
+    font-style: normal;
+    font-size: 11px;
+}
+strong{
+    font-weight: 500;
+}
