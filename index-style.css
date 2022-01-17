@@ -1,0 +1,47 @@
+.wrap>*,article{
+    padding-bottom: 40px;
+}
+.bx-wrapper{
+    border: none;
+    margin-bottom: 5px;
+}
+.bx-wrapper .bx-pager{
+    display: none;
+}
+.section,.footer{
+    padding-bottom: 0;
+}
+.section .sec{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.section .sec .sec-tit{
+    margin-bottom: 8px;
+}
+.contact .sec-tit{
+    margin-bottom: 35px;
+}
+.contact .container{
+    text-align: center;
+}
+.contact .icon{
+    font-size: 50px;
+    margin-bottom: 7px;
+}
+.contact p{
+    margin-bottom: 48px;
+}
+.footer{
+    background-color: #384d53;
+}
+.footer .container{
+    color: #fff;
+    padding: 30px 0;
+}
+strong,address{
+    font-style: normal;
+    font-size: 11px;
+}
+strong{
+    font-weight: 500;
+}
